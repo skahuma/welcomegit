@@ -2,6 +2,7 @@
 total = 15000
 sam = 35/100 * total
 solomon = 65/100 * total
+ivan=solomon - sam 
 #print ("sam gets %d and solomon gets %d"% (sam,solomon))
 
 x=0
@@ -17,4 +18,6 @@ print (class_names[3])
 
 for item in class_names:
 	print (item)
+
+#Will add more stuff below here
 	
